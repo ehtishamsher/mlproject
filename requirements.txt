@@ -6,3 +6,4 @@ xgboost==2.0.3
 dill
 Flask
 gunicorn
+matplotlib
